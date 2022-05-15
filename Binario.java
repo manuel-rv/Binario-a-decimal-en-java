@@ -3,8 +3,8 @@ import  java.util.Scanner;
 public class Binario{
 	public static void main(String[] args) {
 		
-		int contador = 1;
 		String valor_str;
+		int contador = 1;
 		int resultado = 0;
 		boolean error = false;
 		Scanner scanner = new Scanner(System.in);
